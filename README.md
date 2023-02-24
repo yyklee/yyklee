@@ -1,5 +1,5 @@
 
-Hi there. I am a research analyst. 
+I am a research analyst. I have extensive experience developing spatial and econometric methods to model human behavior and market dynamics. 
 
 ### Skills
 
@@ -13,5 +13,3 @@ Hi there. I am a research analyst.
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 
-
-![Ella's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyklee&show_icons=true&theme=graywhite)
