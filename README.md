@@ -8,7 +8,7 @@ I am a research analyst. I have extensive experience developing spatial and econ
 - Causal Inference
 - Machine Learning
 
-### Skills
+## Skills
 
 **:pushpin: Languages**
 
