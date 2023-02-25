@@ -15,10 +15,6 @@ I am a research analyst. I have extensive experience developing spatial and econ
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 
-**:pushpin: Tools**
-
-<img src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=Power BI&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> 
-
 **:pushpin: ML/DS**
 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
