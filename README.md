@@ -3,12 +3,13 @@
 
 I am a research analyst. I have extensive experience developing spatial and econometric methods to model human behavior and market dynamics. I use experimentation and causal inference techniques to solve ambiguous and complex problems. Apart from that I love writing articles (on Data Science, Consumer Behavior and Product Analysis) and contributing to open source.
 
-**My Interest**:
+### Interest
+
 - Experimentation 
 - Causal Inference
 - Machine Learning
 
-## Skills
+### Skills
 
 **:pushpin: Languages**
 
