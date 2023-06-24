@@ -1,5 +1,5 @@
 
-### Hi there, I'm Ella Lee 👋
+### Hi there, I'm Younkyung Lee 👋
 
 I am a research analyst. I have extensive experience developing spatial and econometric methods to model human behavior and market dynamics. I use experimentation and causal inference techniques to solve ambiguous and complex problems. Apart from that I love writing articles (on Data Science, Consumer Behavior and Product Analysis) and contributing to open source.
 
