@@ -1,5 +1,5 @@
 ## About me
-I am currently pursuing a Master's degree in Business Analytics at Emory University. Before my academic pursuits, I gained valuable industry experience as a Research Analyst at Yanolja, where I focused on designing experiments and applying causal inference techniques. I used A/B testing and statistical modeling to uncover actionable insights. My prior research experience in Behavioral Science for over two years further enhanced my skills in experimental design and the nuanced interpretation of online experiments. 
+I am currently pursuing a Master's degree in Business Analytics at Emory University. Before my academic pursuits, I gained valuable industry experience as a Research Analyst at Yanolja, where I focused on designing experiments and applying causal inference techniques. I used A/B testing and statistical modeling to uncover actionable insights. I am passionate about using data analysis, experiments and machine learning to solve business problems. My expertise is in enhancing decision-making with data, combined with effective communication skills to make complex insights clear and actionable.
 
 ### Languages and Tools :
 <div>
