@@ -19,6 +19,4 @@ My expertise is in enhancing decision-making with data, combined with effective 
 </div>
 
 ### Certificates :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-
+* AWS Cloud Practioner 
