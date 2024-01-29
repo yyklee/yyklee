@@ -17,3 +17,8 @@ My expertise is in enhancing decision-making with data, combined with effective 
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### Certificates :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
