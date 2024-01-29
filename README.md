@@ -1,5 +1,9 @@
 ## About me
-I am currently pursuing a Master's degree in Business Analytics at Emory University. Before my academic pursuits, I gained valuable industry experience as a Research Data Analyst at Yanolja, where I focused on designing experiments and demand forecasting. I used **A/B testing**, **statistical modeling**, and **machine learning** techniques to uncover actionable insights. My expertise is in enhancing decision-making with data, combined with effective communication skills to make complex insights clear and actionable.
+I am currently pursuing a Master's degree in Business Analytics at Emory University. 
+
+Before my academic pursuits, I gained valuable industry experience as a Research Data Analyst at Yanolja, where I focused on designing experiments and demand forecasting. I used **A/B testing**, **statistical modeling**, and **machine learning** techniques to uncover actionable insights. 
+
+My expertise is in enhancing decision-making with data, combined with effective communication skills to make complex insights clear and actionable.
 
 ### Languages and Tools :
 <div>
