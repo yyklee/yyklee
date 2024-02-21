@@ -1,9 +1,7 @@
 ## About me
-I am currently pursuing a Master's degree in Business Analytics at Emory University. 
+**Hi, I’m Ella! After working as a Data Analyst in the tech industry, I am now pursuing the Master of Business Analytics degree from  Emory University.** 
 
-Before my academic pursuits, I gained valuable industry experience as a Research Data Analyst at Yanolja, where I focused on designing experiments and demand forecasting. I used **A/B testing**, **statistical modeling**, and **machine learning** techniques to uncover actionable insights. 
-
-My expertise is in enhancing decision-making with data, combined with effective communication skills to make complex insights clear and actionable.
+I am passionate about using experimentation, data mining and machine learning to solve business problems. Before my academic pursuits, I gained valuable industry experience as a Research Data Analyst at Yanolja, where I focused on designing experiments and demand forecasting. I used **A/B testing**, **statistical modeling**, and **machine learning** techniques to uncover actionable insights. My expertise is in utilizing data to uncover insights and communicating them effectively to enhance decision-making.
 
 ### Languages and Tools:
 <div>
