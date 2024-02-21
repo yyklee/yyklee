@@ -17,4 +17,5 @@ I am passionate about using experimentation, data mining and machine learning to
 </div>
 
 ### Certificates:
-* AWS Cloud Practioner 
+* AWS Cloud Practioner
+* Snowflake Datawarehouse Essentials
